@@ -18,5 +18,18 @@ public class Tescase
 		System.out.println("Hell22oboss");
 	}
 	
+	
+	@Test
+	public void display122fv()
+	{
+		System.out.println("Hell22oboss");
+	}
+	
+	@Test
+	public void display122sd()
+	{
+		System.out.println("Hell22osdcboss");
+	}
+	
 
 }
