@@ -11,6 +11,12 @@ public class Tescase
 		System.out.println("Helloboss");
 	}
 	
+	@Test
+	public void displayrsfvh2()
+	{
+		System.out.println("boss");
+	}
+	
 	
 	@Test
 	public void display122()
