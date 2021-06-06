@@ -9,5 +9,13 @@ public class Testcase
 	{
 		System.out.println("hegvdcjabfv");
 	}
+	
+	@Test
+	public void TC674dfv()
+	{
+		System.out.println("hezdfv");
+	}
+	
+	
 
 }
