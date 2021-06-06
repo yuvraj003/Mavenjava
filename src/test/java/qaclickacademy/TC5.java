@@ -28,5 +28,11 @@ public class TC5
 		System.out.println("He373llo");	
 	}
 	
+	@Test
+	public void Testcase13456()
+	{
+		System.out.println("NEW");	
+	}
+	
 
 }

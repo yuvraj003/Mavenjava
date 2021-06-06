@@ -10,4 +10,10 @@ public class TC4
 		System.out.println("Hello to the world");
 	}
 
+	
+	public static void Display2()
+	{
+		System.out.println("world");
+	}
+
 }
