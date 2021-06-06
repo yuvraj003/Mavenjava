@@ -11,11 +11,6 @@ public class Tescase
 		System.out.println("Helloboss");
 	}
 	
-	@Test
-	public void displayrh1()
-	{
-		System.out.println("Helrgbloboss");
-	}
 
 	@Test
 	public void displayrh2()
