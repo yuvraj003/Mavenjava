@@ -9,5 +9,20 @@ public class Testcase
 	{
 		System.out.println("hegvdcjabfv");
 	}
+	
+	@Test
+	public void TC6sd74()
+	{
+		System.out.println("hegvdcjabfv");
+	}
+	
+	@Test
+	public void TC6sv74()
+	{
+		System.out.println("hegvdcjabfv");
+	}
+	
+	
+	
 
 }
