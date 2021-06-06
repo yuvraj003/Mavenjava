@@ -17,4 +17,16 @@ public class Tescase
 		System.out.println("Helrgbloboss");
 	}
 
+	@Test
+	public void displayrh2()
+	{
+		System.out.println("boss");
+	}
+	
+	@Test
+	public void disph3()
+	{
+		System.out.println("Hell");
+	}
 }
+
