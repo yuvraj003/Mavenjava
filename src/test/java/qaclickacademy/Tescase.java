@@ -11,5 +11,12 @@ public class Tescase
 		System.out.println("Helloboss");
 	}
 	
+	
+	@Test
+	public void display122()
+	{
+		System.out.println("Hell22oboss");
+	}
+	
 
 }
