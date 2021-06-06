@@ -59,6 +59,8 @@ public class TC1Test
 		driver.findElement(By.xpath("//yt-formatted-string[text()='Sign out']")).click();
 		
 		driver.quit();
+		
+		System.out.println("BYE");
 	}
 
 }
